@@ -1,4 +1,4 @@
-# Projeto login mobile Yoga
+# QR CODE COMPONENTE
 
 <img class="tela" src="./assets/resultado aplicação.PNG" alt="screen">
 
